@@ -1,0 +1,14 @@
+Date : 2019/08/15
+Order Number : 10
+Customer Name : Harman
+Customer Address : 45 Avenue, Scarbrough
+Customer Contact No. : 891261726
+Customer Email ID : myemail@gmail.com
+Amount : 0
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+

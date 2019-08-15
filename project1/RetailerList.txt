@@ -1,0 +1,117 @@
+RetailerID :1
+Name :Navdeep
+Address :Cimmaron Stret
+MObile No. :12345678
+Email ID :navdeep@gmail.com
+Date :2019/08/10
+
+------------------------------------------------
+
+RetailerID :2
+Name :harman
+Address :Brampton
+MObile No. :2345761289
+Email ID :harman@gmail.com
+Date :2019/08/10
+
+------------------------------------------------
+
+RetailerID :3
+Name :reetu
+Address :45 nugget avenue
+MObile No. :123456783
+Email ID :reetu5@gmail.com
+Date :2019/08/10
+
+------------------------------------------------
+
+RetailerID :4
+Name :manpreet
+Address :Markham
+MObile No. :123121
+Email ID :manpreet21@gmail.com
+Date :2019/08/10
+
+------------------------------------------------
+
+RetailerID :5
+Name :Gurdeep
+Address :Scarborough
+MObile No. :5983839
+Email ID :gurdeep@gmail.com
+Date :2019/08/10
+
+------------------------------------------------
+
+RetailerID :6
+Name :megha
+Address :2108 Pharmacy Avenue Scarborough
+MObile No. :6475315975
+Email ID :megha@gmail.com
+Date :2019/08/11
+
+------------------------------------------------
+
+RetailerID :7
+Name :nav
+Address :markham road
+MObile No. :43829104567
+Email ID :navkaur27@gmail.com
+Date :2019/08/12
+
+------------------------------------------------
+
+RetailerID :8
+Name :nav
+Address :morningside avenue
+MObile No. :34512673890
+Email ID :Navikaur37@yahoo.com
+Date :2019/08/12
+
+------------------------------------------------
+
+RetailerID :9
+Name :reetu
+Address :megan Avenue
+MObile No. :981457862
+Email ID :reetusaroay456@gmail.com
+Date :13/08/2019
+
+============================================================
+
+RetailerID :10
+Name :Reetu
+Address :37 Megan Avenue
+MObile No. :837377282
+Email ID :reetusaroay456@gmail.com
+Date :15/08/2019
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RetailerID :11
+Name :Reetu
+Address :37 Megan Avenue, Scarbrough
+MObile No. :90354747849
+Email ID :reetusaroay456@gmail.com
+Date :15/08/2019
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RetailerID :12
+Name :nav
+Address :34 maccowan road
+MObile No. :4567892015
+Email ID :navikaurnav24@gmail.com
+Date :15/08/2019
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+RetailerID :13
+Name :reet
+Address :85 lanark circle
+MObile No. :8976543290
+Email ID :reet567@gmail.com
+Date :15/08/2019
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+

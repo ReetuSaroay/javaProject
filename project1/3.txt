@@ -1,0 +1,16 @@
+Date : 2019/08/10
+Order Number : 3
+Customer Name : reetu Chahal
+Customer Address : 222 Kennedy Road
+Customer Contact No. : 6478963214
+Customer Email ID : reetu12@gmal.com
+Amount : 52
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+Biscuitasd                      12
+Haldiraam Namkeen               40
+

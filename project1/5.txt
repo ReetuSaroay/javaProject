@@ -1,0 +1,17 @@
+Date : 2019/08/15
+Order Number : 5
+Customer Name : 
+Customer Address : 
+Customer Contact No. : 
+Customer Email ID : 
+Amount : 53
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+TEa                             20
+Chicken                         21
+Biscuit                         12
+

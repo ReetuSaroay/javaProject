@@ -1,0 +1,16 @@
+Date : 2019/08/15
+Order Number : 12
+Customer Name : sandeep
+Customer Address : 45 lanark circle
+Customer Contact No. : 9678543290
+Customer Email ID : sandeep45@gmail.com
+Amount : 52
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+Haldiraam Namkeen               40
+Biscuit                         12
+

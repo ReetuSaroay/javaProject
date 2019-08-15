@@ -1,0 +1,16 @@
+Date : 2019/04/10
+Order Number : 1
+Customer Name : navdeep
+Customer Address : kaur
+Customer Contact No. : 123445
+Customer Email ID : nav@gmail.com
+Amount : 12
+Total : 
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+Biscuit                         12
+

@@ -1,0 +1,15 @@
+Date : 2019/08/10
+Order Number : 2
+Customer Name : harman
+Customer Address : Markham
+Customer Contact No. : 12345678
+Customer Email ID : harman@gmail.com
+Amount : 21
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+Chicken                         21
+

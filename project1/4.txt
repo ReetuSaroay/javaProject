@@ -1,0 +1,17 @@
+Date : 2019/08/12
+Order Number : 4
+Customer Name : 
+Customer Address : 
+Customer Contact No. : 
+Customer Email ID : 
+Amount : 34
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+TEa                             20
+Lays                            2
+Biscuit                         12
+

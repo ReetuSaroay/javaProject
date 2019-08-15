@@ -1,0 +1,15 @@
+Date : 2019/08/15
+Order Number : 9
+Customer Name : 
+Customer Address : 
+Customer Contact No. : 
+Customer Email ID : 
+Amount : 0
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+Pastry                          $1
+

@@ -1,0 +1,15 @@
+Date : 2019/08/15
+Order Number : 11
+Customer Name : Reetu
+Customer Address : Megan Ave
+Customer Contact No. : 04848494
+Customer Email ID : Megan@gmail.com
+Amount : 12
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+Biscuitasd                      12
+

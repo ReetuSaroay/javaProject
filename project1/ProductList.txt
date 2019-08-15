@@ -1,0 +1,117 @@
+Product ID :1
+Product Name :Biscuit
+Warranty :1
+Unit Price :12
+Quantity :122
+Date :2019/09/10
+
+--------------------------------------------------
+
+Product ID :2
+Product Name :Biscuitasd
+Warranty :1
+Unit Price :12
+Quantity :122
+Date :2019/09/10
+
+--------------------------------------------------
+
+Product ID :3
+Product Name :Chicken
+Warranty :1
+Unit Price :21
+Quantity :21
+Date :2019/10/10
+
+--------------------------------------------------
+
+Product ID :4
+Product Name :Haldiraam Namkeen 
+Warranty :1
+Unit Price :40
+Quantity :200
+Date :2019/11/11
+
+--------------------------------------------------
+
+Product ID :5
+Product Name :Biscuits
+Warranty :1
+Unit Price :2
+Quantity :10
+Date :2019/08/12
+
+--------------------------------------------------
+
+Product ID :6
+Product Name :Lays
+Warranty :1
+Unit Price :2
+Quantity :30
+Date :2019/08/12
+
+--------------------------------------------------
+
+Product ID :7
+Product Name :TEa
+Warranty :2
+Unit Price :20
+Quantity :20
+Date :2019/08/12
+
+--------------------------------------------------
+
+Product ID :8
+Product Name :Cookies
+Warranty :2
+Unit Price :12
+Quantity :10
+Date :2019/08/15
+
+--------------------------------------------------
+
+Product ID :9
+Product Name :Cookies
+Warranty :2
+Unit Price :43
+Quantity :10
+Date :2019/08/15
+
+--------------------------------------------------
+
+Product ID :10
+Product Name :Protein Bar
+Warranty :1
+Unit Price :1
+Quantity :1
+Date :2019/08/15
+
+--------------------------------------------------
+
+Product ID :11
+Product Name :
+Warranty :
+Unit Price :
+Quantity :
+Date :2019/08/15
+
+--------------------------------------------------
+
+Product ID :12
+Product Name :lays
+Warranty :6 years
+Unit Price :$5
+Quantity :7
+Date :2019/08/15
+
+--------------------------------------------------
+
+Product ID :13
+Product Name :coffee
+Warranty :5
+Unit Price :5
+Quantity :2
+Date :2019/08/15
+
+--------------------------------------------------
+

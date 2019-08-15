@@ -1,0 +1,14 @@
+Date : 2019/08/15
+Order Number : 8
+Customer Name : harman
+Customer Address : 56 shapperd avenue
+Customer Contact No. : 7653406789
+Customer Email ID : hkaut3456@gmail.com
+Amount : 0
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+

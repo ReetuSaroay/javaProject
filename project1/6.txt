@@ -1,0 +1,14 @@
+Date : 2019/08/15
+Order Number : 6
+Customer Name : reety
+Customer Address : wjdhwidjkw
+Customer Contact No. : 95857559
+Customer Email ID : reetysaraoa@hmla
+Amount : 0
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+
